@@ -1,0 +1,72 @@
+//
+// Google font - IBM Plex Sans
+// @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300;400;500;600;700&display=swap');
+
+
+@font-face {
+    font-family: 'Nanum Gothic';
+    src: url('@/assets/fonts/NanumGothic-Regular.eot');
+    src: url('@/assets/fonts/NanumGothic-Regular.ttf') format('truetype'), url('@/assets/fonts/NanumGothic-Regular.woff') format('woff'), url('@/assets/fonts/NanumGothic-Regular.eot?#iefix') format('embedded-opentype');
+}
+
+@font-face {
+    font-family: 'Nanum Gothic EB';
+    src: url('@/assets/fonts/NanumGothic-ExtraBold.eot');
+    src: url('@/assets/fonts/NanumGothic-ExtraBold.ttf') format('truetype'), url('@/assets/fonts/NanumGothic-ExtraBold.woff') format('woff'), url('@/assets/fonts/NanumGothic-ExtraBold.eot?#iefix') format('embedded-opentype');
+}
+
+@font-face {
+    font-family: 'Proxima Nova B';
+    src: url('@/assets/fonts/FontsFree-Net-FontsFree-Net-Proxima-Nova-Bold.eot');
+    src: url('@/assets/fonts/FontsFree-Net-FontsFree-Net-Proxima-Nova-Bold.ttf') format('truetype'), url('@/assets/fonts/FontsFree-Net-FontsFree-Net-Proxima-Nova-Bold.woff') format('woff'), url('@/assets/fonts/FontsFree-Net-FontsFree-Net-Proxima-Nova-Bold.eot?#iefix') format('embedded-opentype');
+}
+
+@font-face {
+    font-family: 'Proxima Nova R';
+    src: url('@/assets/fonts/FontsFree-Net-proxima_nova_reg-webfont.eot');
+    src: url('@/assets/fonts/FontsFree-Net-proxima_nova_reg-webfont.ttf') format('truetype'), url('@/assets/fonts/FontsFree-Net-proxima_nova_reg-webfont.woff') format('woff'), url('@/assets/fonts/FontsFree-Net-proxima_nova_reg-webfont.eot?#iefix') format('embedded-opentype');
+}
+
+@font-face {
+    font-family: 'NotoSans';
+    font-style: normal;
+    font-weight: 400;
+    src: url('@/assets/fonts/NotoSans-Regular.eot');
+    src: url('@/assets/fonts/NotoSans-Regular.ttf') format('truetype'), url('@/assets/fonts/NotoSans-Regular.woff') format('woff'), url('@/assets/fonts/NotoSans-Regular.eot?#iefix') format('embedded-opentype');
+}
+
+@font-face {
+    font-family: 'NotoSans';
+    font-style: bold;
+    font-weight: 700;
+    src: url('@/assets/fonts/NotoSans-Bold.eot');
+    src: url('@/assets/fonts/NotoSans-Bold.ttf') format('truetype'), url('@/assets/fonts/NotoSans-Bold.woff') format('woff'), url('@/assets/fonts/NotoSans-Bold.eot?#iefix') format('embedded-opentype');
+}
+
+@font-face {
+    font-family: 'GothamSSm-Book';
+    font-style: normal;
+    font-weight: 400;
+    src: url('@/assets/fonts/GothamSSm-Book.eot');
+    src: url('@/assets/fonts/GothamSSm-Book.ttf') format('truetype'), url('@/assets/fonts/GothamSSm-Book.woff') format('woff'), url('@/assets/fonts/GothamSSm-Book.eot?#iefix') format('embedded-opentype');
+}
+
+@font-face {
+    font-family: 'GothamSSm';
+    font-style: normal;
+    font-weight: 500;
+    src: url('@/assets/fonts/GothamSSm-Medium.eot');
+    src: url('@/assets/fonts/GothamSSm-Medium.ttf') format('truetype'), url('@/assets/fonts/GothamSSm-Medium.woff') format('woff'), url('@/assets/fonts/GothamSSm-Medium.eot?#iefix') format('embedded-opentype');
+}
+
+@font-face {
+    font-family: 'GothamSSm';
+    font-style: bold;
+    font-weight: 700;
+    src: url('@/assets/fonts/GothamSSm-Bold.eot');
+    src: url('@/assets/fonts/GothamSSm-Bold.ttf') format('truetype'), url('@/assets/fonts/GothamSSm-Bold.woff') format('woff'), url('@/assets/fonts/GothamSSm-Bold.eot?#iefix') format('embedded-opentype');
+}
+
+body {
+    font-family: 'Nanum Gothic' !important;
+}

@@ -1,0 +1,24 @@
+/*
+Template Name: Minible - Admin & Dashboard Template
+Author: Themesbrand
+Version: 2.0.0
+Website: https://themesbrand.com/
+Contact: themesbrand@gmail.com
+File: Main Css File
+*/
+
+//Fonts
+@import "custom/fonts/fonts";
+
+//Core files
+@import "./node_modules/bootstrap/scss/functions";
+@import "./node_modules/bootstrap/scss/variables";
+@import "./node_modules/bootstrap/scss/mixins.scss";
+@import "bootstrap";
+
+@import "icons";
+@import "./custom";
+
+// Structure
+@import "./_custom";
+
